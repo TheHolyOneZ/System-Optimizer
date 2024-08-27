@@ -4,31 +4,31 @@ System Optimizer - Release Date: 30.08.2024
 
 ### System Information Retrieval:
 
-IP and MAC address display
+  - IP and MAC address display
   - Network interface information
   - CPU and memory details
   - Disk information
-  - System Optimization:
+### System Optimization:
 
-Disk defragmentation
+  - Disk defragmentation
   - Windows Update cache clearing
   - Startup program optimization
   - Network speed enhancement
-  - System Maintenance:
+### System Maintenance:
 
-System file check and repair
+  - System file check and repair
   - CPU temperature monitoring
   - Power settings optimization
   - Browser cache clearing
-  - Advanced System Management:
+## Advanced System Management:
 
-Driver updates
+  - Driver updates
   - Large file analysis
   - Windows indexing optimization
   - System restore point management
-  - Performance Tweaks:
+### Performance Tweaks:
 
-Pagefile optimization
+  - Pagefile optimization
   - Unused Windows feature disabling
   - Visual effects customization
   - Registry optimization
