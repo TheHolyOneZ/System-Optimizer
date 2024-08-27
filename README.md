@@ -2,6 +2,10 @@
 
 System Optimizer - Release Date: 30.08.2024
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This comprehensive suite of tools offers a wide range of system optimization and management features, making it a powerful utility for Windows users looking to enhance their system's performance and maintain its health.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### System Information Retrieval:
 
   - IP and MAC address display
