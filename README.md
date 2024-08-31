@@ -1,7 +1,7 @@
 # System-Optimizer
 By the way the code will be published in German icba to translate it all to english lol
 
-System Optimizer - Release Date: 30.08.2024
+System Optimizer 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This comprehensive suite of tools offers a wide range of system optimization and management features, making it a powerful utility for Windows users looking to enhance their system's performance and maintain its health.
